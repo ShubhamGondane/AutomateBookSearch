@@ -1,0 +1,333 @@
+1595388055156	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileFbWwU5"
+*** You are running in headless mode.
+1595388057552	Marionette	INFO	Listening on port 64983
+1595388057657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595388205315	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileVVsqlz"
+*** You are running in headless mode.
+1595388207188	Marionette	INFO	Listening on port 65124
+1595388207275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595388478308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilepBV4Dd"
+1595388480451	Marionette	INFO	Listening on port 65275
+1595388480484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595388504247	Marionette	INFO	Stopped listening on port 65275
+1595388505495	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileCFW7NC"
+1595388507646	Marionette	INFO	Listening on port 65333
+1595388507664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Sean+CarrollThe+Big+Picture%3A+On+the+Origins+of+Life%2C+Meaning%2C+and+the+Universe+Itself&tn=&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595388554871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileJs0NI3"
+1595388557145	Marionette	INFO	Listening on port 65468
+1595388557238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595388557253	Marionette	INFO	Stopped listening on port 65333
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595388865053	Marionette	INFO	Stopped listening on port 65468
+1595388868980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilemlJpNM"
+1595388871055	Marionette	INFO	Listening on port 49249
+1595388871129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595388911440	Marionette	INFO	Stopped listening on port 49249
+1595388926855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileJlZhLB"
+1595388928936	Marionette	INFO	Listening on port 49372
+1595388929011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595389086121	Marionette	INFO	Stopped listening on port 49372
+1595389088493	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileZvgJxg"
+1595389090658	Marionette	INFO	Listening on port 49579
+1595389090758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595389122175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilevFtYG0"
+*** You are running in headless mode.
+1595389123052	Marionette	INFO	Stopped listening on port 49579
+1595389124094	Marionette	INFO	Listening on port 49695
+1595389124123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595389142401	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofile82c3Q2"
+*** You are running in headless mode.
+1595389144382	Marionette	INFO	Listening on port 49819
+1595389144498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595389277217	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileUl20sI"
+*** You are running in headless mode.
+1595389279683	Marionette	INFO	Listening on port 49954
+1595389279717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595389469381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileHfh60k"
+*** You are running in headless mode.
+1595389471378	Marionette	INFO	Listening on port 50099
+1595389471416	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595389582261	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilePRxgZW"
+*** You are running in headless mode.
+1595389584036	Marionette	INFO	Listening on port 50229
+1595389584105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595389750638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileRhzv73"
+*** You are running in headless mode.
+1595389752525	Marionette	INFO	Listening on port 50376
+1595389752606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595389807991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilecU4qnT"
+*** You are running in headless mode.
+1595389809978	Marionette	INFO	Listening on port 50500
+1595389810108	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595389932273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofile1iJ26x"
+*** You are running in headless mode.
+1595389934125	Marionette	INFO	Listening on port 50630
+1595389934213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595389999383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileUKfpRm"
+*** You are running in headless mode.
+1595390001357	Marionette	INFO	Listening on port 50743
+1595390001427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390132134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilep5M4pG"
+*** You are running in headless mode.
+1595390134075	Marionette	INFO	Listening on port 50880
+1595390134089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390141446	Marionette	INFO	Stopped listening on port 50880
+1595390257512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileafovcB"
+1595390259695	Marionette	INFO	Listening on port 50985
+1595390259755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390290743	Marionette	INFO	Stopped listening on port 50985
+1595390297544	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileGZ2Q61"
+1595390299906	Marionette	INFO	Listening on port 51110
+1595390299993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390308577	Marionette	INFO	Stopped listening on port 51110
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595390696985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofile5E2Sa6"
+*** You are running in headless mode.
+1595390698737	Marionette	INFO	Listening on port 51251
+1595390698810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390763366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileaFT7Eg"
+*** You are running in headless mode.
+1595390765120	Marionette	INFO	Listening on port 51363
+1595390765197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390787864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileNtIbe8"
+*** You are running in headless mode.
+1595390789590	Marionette	INFO	Listening on port 51486
+1595390789624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390844876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileRccJmY"
+*** You are running in headless mode.
+1595390846745	Marionette	INFO	Listening on port 51607
+1595390846819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390875744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofile8Fnq3X"
+*** You are running in headless mode.
+1595390877492	Marionette	INFO	Listening on port 51726
+1595390877586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390929697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileUhhido"
+*** You are running in headless mode.
+1595390931614	Marionette	INFO	Listening on port 51844
+1595390931634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595390978500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileniAZSo"
+*** You are running in headless mode.
+1595390980180	Marionette	INFO	Listening on port 51960
+1595390980280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595391043087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofile1DTIet"
+*** You are running in headless mode.
+1595391044831	Marionette	INFO	Listening on port 52078
+1595391044919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595391052157	Marionette	INFO	Stopped listening on port 52078
+1595391854318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofile07hA1y"
+*** You are running in headless mode.
+1595391856714	Marionette	INFO	Listening on port 52244
+1595391856783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595391884158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileBgBFA4"
+*** You are running in headless mode.
+1595391886019	Marionette	INFO	Listening on port 52301
+1595391886111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595391912126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileD1951u"
+*** You are running in headless mode.
+1595391913848	Marionette	INFO	Listening on port 52358
+1595391913871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595392061426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofiletxCCyq"
+*** You are running in headless mode.
+1595392063143	Marionette	INFO	Listening on port 52412
+1595392063161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Christopher+Paolini&tn=To+Sleep+in+a+Sea+of+Stars&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595392210128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileAzP8Hr"
+*** You are running in headless mode.
+1595392211839	Marionette	INFO	Listening on port 52520
+1595392211920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Christopher+Paolini&tn=To+Sleep+in+a+Sea+of+Stars&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595392243336	Marionette	INFO	Stopped listening on port 52520
+1595392372311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileEaL3oZ"
+*** You are running in headless mode.
+1595392374143	Marionette	INFO	Listening on port 52681
+1595392374150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595392419425	Marionette	INFO	Stopped listening on port 52681
+1595392545123	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileihNpUE"
+*** You are running in headless mode.
+1595392547003	Marionette	INFO	Listening on port 52955
+1595392547050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1595392589271	Marionette	INFO	Stopped listening on port 52955
+1595397149753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileEtaaZp"
+*** You are running in headless mode.
+1595397152267	Marionette	INFO	Listening on port 53498
+1595397152285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/combined/homepage-93781666dc.js, line 1: TypeError: e is null
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595397299953	Marionette	INFO	Stopped listening on port 53498
+1595397756176	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilenJ1Ml5"
+*** You are running in headless mode.
+1595397758444	Marionette	INFO	Listening on port 54056
+1595397758524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595397893848	Marionette	INFO	Stopped listening on port 54056
+1595399804491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileRDkAv7"
+*** You are running in headless mode.
+1595399807038	Marionette	INFO	Listening on port 54906
+1595399807054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595399954805	Marionette	INFO	Stopped listening on port 54906
+1595399997179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileYcSnRg"
+*** You are running in headless mode.
+1595399999345	Marionette	INFO	Listening on port 55448
+1595399999460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595400134046	Marionette	INFO	Stopped listening on port 55448
+1595400726002	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilezxpcgH"
+*** You are running in headless mode.
+1595400728427	Marionette	INFO	Listening on port 55985
+1595400728457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1595400865144	Marionette	INFO	Stopped listening on port 55985
+1595400978601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileGFx5MP"
+*** You are running in headless mode.
+1595400980405	Marionette	INFO	Listening on port 56455
+1595400980446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1595401113130	Marionette	INFO	Stopped listening on port 56455
+1595401154756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileakKJIj"
+*** You are running in headless mode.
+1595401156977	Marionette	INFO	Listening on port 56918
+1595401157037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595401292805	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofile7nHkkw"
+*** You are running in headless mode.
+1595401296176	Marionette	INFO	Listening on port 57046
+1595401296244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595401519742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilevC3WIR"
+*** You are running in headless mode.
+1595401522386	Marionette	INFO	Listening on port 57260
+1595401522433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1595401656344	Marionette	INFO	Stopped listening on port 57260
+1595401720880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileSzCOnl"
+*** You are running in headless mode.
+1595401723084	Marionette	INFO	Listening on port 57719
+1595401723213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1595401858285	Marionette	INFO	Stopped listening on port 57719
+1595444086842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofile8aZdff"
+*** You are running in headless mode.
+1595444088717	Marionette	INFO	Listening on port 61868
+1595444088776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595444224634	Marionette	INFO	Stopped listening on port 61868
+1595444306389	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilecNcrqF"
+*** You are running in headless mode.
+1595444308099	Marionette	INFO	Listening on port 62313
+1595444308118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595444350397	Marionette	INFO	Stopped listening on port 62313
+1595444742537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileDRKbZu"
+*** You are running in headless mode.
+1595444744274	Marionette	INFO	Listening on port 62736
+1595444744305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595444797433	Marionette	INFO	Stopped listening on port 62736
+1595444821849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileA8B6mF"
+*** You are running in headless mode.
+1595444823505	Marionette	INFO	Listening on port 62891
+1595444823591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595444848379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileMfJHvV"
+*** You are running in headless mode.
+1595444850098	Marionette	INFO	Listening on port 62987
+1595444850133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595444886015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofile4wYmJR"
+*** You are running in headless mode.
+1595444887722	Marionette	INFO	Listening on port 63080
+1595444887754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595445028522	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileMIeTXJ"
+*** You are running in headless mode.
+1595445030548	Marionette	INFO	Listening on port 63279
+1595445030569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595445068754	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilecil39h"
+*** You are running in headless mode.
+1595445070596	Marionette	INFO	Listening on port 63401
+1595445070699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/components/highlightinventory_nobundledreact-5ad6dc0c84.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Jan+Morris&tn=Why+the+West+Rules%97for+Now%3A+The+Patterns+of+History%2C+and+What+They+Reveal+About+the+Future&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595445310777	Marionette	INFO	Stopped listening on port 63401
+1595451651361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilexFXR5y"
+1595451653650	Marionette	INFO	Listening on port 64651
+1595451653713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://service.force.com/embeddedservice/5.0/utils/inert.min.js, line 1: TypeError: can't redefine non-configurable property "inert"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.thriftbooks.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595451691851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileFgZLTD"
+1595451693794	Marionette	INFO	Listening on port 64787
+1595451693812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://service.force.com/embeddedservice/5.0/utils/inert.min.js, line 1: TypeError: can't redefine non-configurable property "inert"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.thriftbooks.com"
+1595451724247	Marionette	INFO	Stopped listening on port 64651
+1595451732171	Marionette	INFO	Stopped listening on port 64787
+1595451748871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileiY3YKf"
+1595451750754	Marionette	INFO	Listening on port 64949
+1595451750821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://service.force.com/embeddedservice/5.0/utils/inert.min.js, line 1: TypeError: can't redefine non-configurable property "inert"
+1595451861120	Marionette	INFO	Stopped listening on port 64949
+1595451921362	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilex0Uu9Y"
+1595451923200	Marionette	INFO	Listening on port 65117
+1595451923213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595451926856	Marionette	INFO	Stopped listening on port 65117
+1595451980588	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofileQmE6jj"
+1595451982404	Marionette	INFO	Listening on port 65228
+1595451982445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595452099516	Marionette	INFO	Stopped listening on port 65228
+1595461756328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/26/p3jzk3h17l53ht61t5yxjswc0000gn/T/rust_mozprofilek3OFUO"
+*** You are running in headless mode.
+1595461758689	Marionette	INFO	Listening on port 54432
+1595461758781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Christopher+Paolini&tn=To+Sleep+in+a+Sea+of+Stars&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Hao+Jingfang&tn=Folding+Beijing&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+JavaScript error: https://static.prod.abebookscdn.com/cdn/com/scripts/combined/searchresults-7bc2263ea0.js, line 1: URIError: malformed URI sequence
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=Ray+Dalio&tn=The+Changing+World+Order%3A+Why+Nations+Succeed+and+Fail&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+JavaScript error: https://www.abebooks.com/servlet/SearchResults?sts=t&cm_sp=SearchF-_-home-_-Results&kn=&an=George+R.R.+Martin&tn=The+Winds+of+Winter+%28A+Song+of+Ice+and+Fire%2C+%236%29&isbn=, line 39: ReferenceError: $CTX_GALLERY_LIST is not defined
+1595462154235	Marionette	INFO	Stopped listening on port 54432
